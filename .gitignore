@@ -1,0 +1,5 @@
+dating.db
+chat_logs.txt
+__pycache__/
+*.pyc
+.env
